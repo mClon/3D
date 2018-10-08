@@ -2,7 +2,7 @@
 
 You may download the mClon's beta version 
 
-Go to https://tecnoloxia.org/mclon/ and find more about the project
+https://tecnoloxia.org/mclon/ and find more about the project
 
 ## LICENSE
 
