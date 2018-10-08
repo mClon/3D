@@ -1,6 +1,6 @@
 # 3D stuff of the project
 
-nothing... yet
+You may download the mClon's beta version 
 
 ## LICENSE
 
