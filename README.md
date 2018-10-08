@@ -1,6 +1,7 @@
 # 3D stuff of the project
 
 You may download the mClon's beta version 
+Go to https://tecnoloxia.org/mclon/ and find more about the project
 
 ## LICENSE
 
