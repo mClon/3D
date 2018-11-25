@@ -8,6 +8,10 @@ Here you'll find [all the parts](https://github.com/mClon/3D/archive/master.zip)
 
 All the information of the project at: https://mclon.org
 
+## CONTRIBUTIONS
+
+Feel free to contribute via pull-request or contacting directly with us via e-mail.
+
 
 ## LICENSE
 
