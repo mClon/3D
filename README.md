@@ -1,8 +1,13 @@
-# 3D stuff of the project
+# mClon 3D models
 
-You may download the mClon's beta version 
+Here you'll find [all the parts](https://github.com/mClon/3D/archive/master.zip) that you may 3D-print to build your own mClon.
 
-https://tecnoloxia.org/mclon/ and find more about the project
+![mClon](mClon-3D.png)
+
+## PROJECT SITE
+
+All the information of the project at: https://mclon.org
+
 
 ## LICENSE
 
