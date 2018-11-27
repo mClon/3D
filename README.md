@@ -1,19 +1,22 @@
-# mClon 3D models
+# Pezas 3D do mClon
 
-Here you'll find [all the parts](https://github.com/mClon/3D/archive/master.zip) that you may 3D-print to build your own mClon.
+Atoparás eiqui [todas as pezas](https://github.com/mClon/3D/archive/master.zip) que poderás imprimir en 3D para facer o teu propio mClon.
 
 ![mClon](mClon-3D.png)
 
-## PROJECT SITE
+## Páxina do proxecto
 
-All the information of the project at: https://mclon.org
+Toda a información sobre o proxecto está en https://mclon.org
 
-## CONTRIBUTIONS
+## Contribucións
 
-Feel free to contribute via pull-request or contacting directly with us via e-mail.
+Podes contribuir ó proxecto a través do noso [repositorio de contribucións](https://github.com/mClon/contribucions/), ou contactando con nos directamente via correo-e.
 
+## LICENCIA / LICENSE
 
-## LICENSE
+Este traballo está suxeito á licencia [GNU General Public v3.0 License](LICENSE-GPLV30). Todos os arquivos multimedia e de datos que non sexan código fonte están suxeitos á licencia [Creative Commons Attribution 4.0 BY-SA license](LICENSE-CCBYSA40).
+
+Mais información acerca destas licencias en [licencias Opensource](https://opensource.org/licenses/) e [licencias Creative Commons](https://creativecommons.org/licenses/).
 
 This work is licensed under the [GNU General Public License v3.0](LICENSE-GPLV30). All media and data files that are not source code are licensed under the [Creative Commons Attribution 4.0 BY-SA license](LICENSE-CCBYSA40).
 
