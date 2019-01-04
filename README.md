@@ -2,7 +2,7 @@
 
 Atoparás aquí [todas as pezas (zip)](https://github.com/mClon/3D/archive/master.zip) que poderás imprimir en 3D para construír a estrutura do teu mClon.
 
-![mClon](Onshape/mClon-3D.png)
+![mClon](mClon-3D.png)
 
 ## Páxina do proxecto
 
