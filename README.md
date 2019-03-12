@@ -1,6 +1,6 @@
 # Pezas 3D do mClon
 
-Tes na carpeta [Imprimibles3D](tree/master/Imprimibles3D) todas as pezas que poderás imprimir en 3D para construír a estrutura do teu mClon.
+Tes na carpeta [Imprimibles3D](https://github.com/mClon/3D/tree/master/Imprimibles3D) todas as pezas que poderás imprimir en 3D para construír a estrutura do teu mClon.
 
 Podes descargar aquí [o repositorio completo (zip)](https://github.com/mClon/3D/archive/master.zip)
 
